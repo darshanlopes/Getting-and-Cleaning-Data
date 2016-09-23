@@ -16,4 +16,4 @@ The R script, **run_analysis.R**, does the following:
 
 The tidy data file is **tidydatafile.txt**
 
-**CodeBook.md** describes the variables, the data, and any transformations or work that was performed to clean up the data.
+**CodeBook.md**  indicate all the variables and summaries calculated, along with units, and any other relevant information..
