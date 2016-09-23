@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
+
+
 The R script, run_analysis.R, does the following:
 Read the test label and subjects
 Read the training labels and subject
